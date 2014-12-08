@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Mean Stack Tutorial](README.md)
 * Hello, Gitty
 
