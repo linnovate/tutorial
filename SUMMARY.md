@@ -2,7 +2,7 @@
 
 * [Mean Stack Tutorial](README.md)
     * [Getting Started](getting_started.md)
-    * [File structure](fs.md)
+    * [Components and File-Structure](fs.md)
     * [Packages](packages.md)
 * [Client Side](public/overview.md)
     * [Routes](public/routes.md)
