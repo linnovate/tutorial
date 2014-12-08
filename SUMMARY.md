@@ -1,7 +1,14 @@
 # Summary
 
 * [Mean Stack Tutorial](README.md)
-* Client Side
+    * [Getting Started](getting_started.md) 
+* [Client Side](public/overview.md)
+    * [Overview](public/fs.md)   
+    * [Routes](public/routes.md)
+    * [Views](public/views.md)
+    * [Controllers](public/controllers,md)
+* Server Side
+    * Directory structure
     * Routes
     * Views
     * Controllers
