@@ -1,3 +1,12 @@
+## Prerequisites
+* *MongoDB* - <a href="http://www.mongodb.org/downloads">Download</a> and Install mongodb - <a href="http://docs.mongodb.org/manual">Checkout their manual</a> if you're just starting.
+* *Node.js* - <a href="http://nodejs.org/download/">Download</a> and Install Node.js, nodeschool has free <a href=" http://nodeschool.io/#workshoppers">node tutorials</a> to get you started.
+* *Git* - Get git using a package manager or <a href="http://git-scm.com/downloads">download</a> it.
+* Grunt - Download and Install [Grunt](http://gruntjs.com).
+```
+$ npm install -g grunt-cli
+```
+
 ## Installation
 To start with MEAN install the `mean-cli` package from NPM.
 This will add the *mean* command which lets you interact (install, manage, update ...) your mean based  application.
