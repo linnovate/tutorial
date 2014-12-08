@@ -1,5 +1,5 @@
 # Summary
 
 * [Mean Stack Tutorial](README.md)
-* Hello, Gitty
+* [Hello, Gitty](public.md)
 
