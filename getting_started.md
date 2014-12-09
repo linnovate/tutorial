@@ -1,3 +1,5 @@
+So before we dive in the first thing we need to do is to install mean.io.
+Mean.io is based on mongo,express,angular and node and below are the explanations of what needs to be installed as a prerequiste before we get to business...
 ## Prerequisites
 * *MongoDB* - <a href="http://www.mongodb.org/downloads">Download</a> and Install mongodb - <a href="http://docs.mongodb.org/manual">Checkout their manual</a> if you're just starting.
 * *Node.js* - <a href="http://nodejs.org/download/">Download</a> and Install Node.js, nodeschool has free <a href=" http://nodeschool.io/#workshoppers">node tutorials</a> to get you started.
