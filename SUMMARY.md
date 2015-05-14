@@ -1,7 +1,7 @@
 # Summary
 
 * [Mean Stack Tutorial](README.md)
-   * Before you start
+   * [Before you start](before_you_start.md)
    * [Getting Started](getting_started.md)
    * [Components and File-Structure](fs.md)
    * [Packages](packages.md)
