@@ -14,6 +14,7 @@
    * [Routes](server/routes.md)
    * [Views](server/views.md)
    * [Controllers](server/controllers.md)
+* [Components and File-Structure](fs.md)
 * [gitty/hellogitty.md](gitty/hellogittymd.md)
    * [Site Example](site_example.md)
 
