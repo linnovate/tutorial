@@ -12,5 +12,5 @@
    * [Routes](server/routes.md)
    * [Views](server/views.md)
    * [Controllers](server/controllers.md)
-* gitty/hellogitty.md
+* [gitty/hellogitty.md](gitty/hellogittymd.md)
 
