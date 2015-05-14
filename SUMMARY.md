@@ -3,8 +3,8 @@
 * [Mean Stack Tutorial](README.md)
    * [Before you start](before_you_start.md)
    * [Getting Started](getting_started.md)
-   * [Components and File-Structure](fs.md)
    * [Packages](packages.md)
+   * [Components and File-Structure](fs.md)
    * Lessons
 * [Client Side](public/overview.md)
    * [Routes](public/routes.md)
