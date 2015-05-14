@@ -4,6 +4,7 @@
    * [Getting Started](getting_started.md)
    * [Components and File-Structure](fs.md)
    * [Packages](packages.md)
+   * Before you start
 * [Client Side](public/overview.md)
    * [Routes](public/routes.md)
    * [Views](public/views.md)
