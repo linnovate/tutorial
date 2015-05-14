@@ -1,2 +1,0 @@
-# gitty/hellogitty.md
-
