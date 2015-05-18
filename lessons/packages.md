@@ -2,6 +2,20 @@
 
 Mean.io introduces the idea of packages.
 
+## Package structure and files
+```
+- app.js
+- mean.json
+- public
+- server
+```
+
+### Server side of packages
+
+
+### Public of the packages
+
+
 ## Core packages
 
 The mean repository is built by 5 core packages:
