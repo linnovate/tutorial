@@ -10,6 +10,5 @@
        * [Layout](layout.md)
        * [Routing](routing.md)
        * [Menus](menus.md)
-       * test2
 * [Concept](concept.md)
 
