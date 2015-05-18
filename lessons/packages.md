@@ -10,7 +10,7 @@ Mean.io introduces the idea of packages.
 - server
 ```
 
-### [Server side of packages]("packages.html#server")
+### [Server side of packages](packages.html#server)
 
 
 ### Public of the packages
