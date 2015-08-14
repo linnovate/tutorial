@@ -10,8 +10,9 @@ MEAN.io is a wonderfully simplified technology, but even this stack implementati
 * 
 
 ###angular
-
-
+* https://docs.angularjs.org/tutorial
+* https://www.codecademy.com/en/courses/learn-angularjs/lessons/your-first-app/exercises/your-first-app-hello-angularjs-i
+* https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/#ngView-and-Routes
 
 ###node
 * `npm install -g learnyounode`
