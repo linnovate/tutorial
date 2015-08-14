@@ -6,9 +6,10 @@ MEAN.io is a wonderfully simplified technology, but even this stack implementati
 ###CSS3
 
 ###Generic javascript
-JavaScript: The Good Parts
-`npm install -g javascripting`
-`npm install -g promise-it-wont-hurt`
+* JavaScript: The Good Parts
+* `npm install -g javascripting`
+* `npm install -g functional-javascript-workshop`
+* `npm install -g promise-it-wont-hurt`
 ###node
 
 ###angular
